@@ -1,0 +1,16 @@
+@font-face{
+	font-family:"pixel";
+	src: url(../mh2020/fonts/pixel.TTF) format("truetype");
+}
+@font-face{
+	font-family:"pixel_bold";
+	src: url(../mh2020/fonts/pixel_bold.TTF) format("truetype");
+}
+
+canvas{
+	border: solid 1px #fff;
+	display: block;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
