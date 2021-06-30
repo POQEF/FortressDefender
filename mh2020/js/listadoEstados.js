@@ -1,0 +1,8 @@
+var listadoEstados = {
+	CARGANDO: 0,
+	MENU_INICIAL: 1,
+	MAPAMUNDI: 2,
+	NIVELValkyon: 5,
+	PANTALLA_TITULO: 6,
+	POST_JUEGO: 7
+}
